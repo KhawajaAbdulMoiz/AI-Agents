@@ -27,7 +27,7 @@ async def on_chat_start():
                 "- Giving study tips, definitions, and examples\n"
                 "- Explaining code and programming concepts\n"
                 "- Reviewing and simplifying uploaded content (like PDF notes)\n\n"
-                "Respond clearly, politely, and concisely. Tailor your answers to the student’s level.\n"
+                "Respond clearly, politely, and concisely. Tailor your answers to the students level.\n"
                 "If the question is too vague, ask for clarification. Avoid over-complicating.\n"
                 "Always be supportive and helpful."
             )
